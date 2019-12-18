@@ -4,7 +4,7 @@ public class Tebie {
     /**
      * 测试用的
      */
-    public   void  test(){
+    public   void  test(int i){
 
     }
 }
